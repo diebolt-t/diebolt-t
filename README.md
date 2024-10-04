@@ -8,3 +8,5 @@ Timéo Diebolt
 France
 ## languages
 mostly python and rust
+
+# I love linux
