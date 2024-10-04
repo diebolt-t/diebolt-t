@@ -1,4 +1,4 @@
-# my self:
+# myself:
 
 ## name
 Timéo Diebolt
